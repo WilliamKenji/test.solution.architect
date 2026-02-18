@@ -1,0 +1,75 @@
+version: '3.9'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/azure-sql-edge:latest
+    container_name: sqlserver
+    restart: unless-stopped
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "${MSSQL_SA_PASSWORD}"
+      MSSQL_PID: "Developer"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql-data:/var/opt/mssql
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P ${MSSQL_SA_PASSWORD} -Q 'SELECT 1' || exit 1"]
+      interval: 20s
+      timeout: 15s
+      retries: 15
+      start_period: 90s
+
+  servicebus-emulator:
+    image: mcr.microsoft.com/azure-messaging/servicebus-emulator:latest
+    container_name: servicebus-emulator
+    restart: unless-stopped
+    depends_on:
+      sqlserver:
+        condition: service_healthy
+    volumes:
+      - "${CONFIG_PATH_SERVICEBUS}:/ServiceBus_Emulator/ConfigFiles/Config.json"
+      - "./wait-for-sql.sh:/wait-for-sql.sh" # executar no wsl: chmod +x wait-for-sql.sh
+    ports:
+      - "5672:5672"
+      - "${EMULATOR_HTTP_PORT}:5300"
+    environment:
+      SQL_SERVER: sqlserver
+      MSSQL_SA_PASSWORD: "${MSSQL_SA_PASSWORD}"
+      ACCEPT_EULA: "Y"
+      EMULATOR_HTTP_PORT: "${EMULATOR_HTTP_PORT}"
+    command: sh -c "/wait-for-sql.sh dotnet Azure.ServiceBus.Emulator.dll"
+
+  keyvault-emulator:
+    image: jamesgoulddev/azure-keyvault-emulator:latest
+    container_name: keyvault-emulator
+    restart: unless-stopped
+    ports:
+      - "4997:4997"
+    volumes:
+      - "./certs:/certs"
+      - "${CONFIG_PATH_KEYVAULT}:/app/secrets.json"
+    environment:
+      Persist: "true"
+    networks:
+      - dev-net
+
+  redis:
+    image: redis:alpine
+    container_name: redis
+    restart: unless-stopped
+    command: redis-server --requirepass yourRedisPass
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    networks:
+      - dev-net
+
+volumes:
+  sql-data:
+  redis-data:
+
+networks:
+  dev-net:
+    driver: bridge
