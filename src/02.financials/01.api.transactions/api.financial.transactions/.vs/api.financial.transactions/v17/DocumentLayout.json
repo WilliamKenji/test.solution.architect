@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\infrastructure\\persistence\\lancamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\infrastructure\\persistence\\lancamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\infrastructure\\persistence\\fluxocaixadbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\infrastructure\\persistence\\fluxocaixadbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\infrastructure\\persistence\\fluxocaixadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\infrastructure\\persistence\\fluxocaixadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\features\\registrarlancamento\\registrarlancamentovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\features\\registrarlancamento\\registrarlancamentovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\features\\consultarlancamentospordia\\consultarlancamentospordiavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\features\\consultarlancamentospordia\\consultarlancamentospordiavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\features\\consultarlancamentospordia\\consultarlancamentospordiaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\features\\consultarlancamentospordia\\consultarlancamentospordiaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\features\\consultarlancamentospordia\\consultarlancamentospordiaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\features\\consultarlancamentospordia\\consultarlancamentospordiaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\features\\registrarlancamento\\registrarlancamentocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\features\\registrarlancamento\\registrarlancamentocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\features\\registrarlancamento\\registrarlancamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\features\\registrarlancamento\\registrarlancamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\domain\\entities\\lancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\domain\\entities\\lancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\controllers\\lancamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\controllers\\lancamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\application\\interfaces\\ilancamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\application\\interfaces\\ilancamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\infrastructure\\persistence\\lancamentorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\registrarlancamento\\registrarlancamentovalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\registrarlancamento\\registrarlancamentocommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\consultarlancamentospordia\\lancamentorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\consultarlancamentospordia\\consultarlancamentospordiavalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\consultarlancamentospordia\\consultarlancamentospordiaqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Program.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Program.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Program.cs",
+              "RelativeToolTip": "api.financial.transactions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:06:43.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LancamentoRepository.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Infrastructure\\Persistence\\LancamentoRepository.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Infrastructure\\Persistence\\LancamentoRepository.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Infrastructure\\Persistence\\LancamentoRepository.cs",
+              "RelativeToolTip": "api.financial.transactions\\Infrastructure\\Persistence\\LancamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:06:29.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FluxoCaixaDbContextFactory.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContextFactory.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContextFactory.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContextFactory.cs",
+              "RelativeToolTip": "api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:06:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FluxoCaixaDbContext.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContext.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContext.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContext.cs",
+              "RelativeToolTip": "api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:06:09.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrarLancamentoValidator.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoValidator.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoValidator.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoValidator.cs",
+              "RelativeToolTip": "api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:05:37.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrarLancamentoCommandHandler.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandler.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandler.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandler.cs",
+              "RelativeToolTip": "api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:05:24.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrarLancamentoCommand.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommand.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommand.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommand.cs",
+              "RelativeToolTip": "api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:05:23.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultarLancamentosPorDiaValidator.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidator.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidator.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidator.cs",
+              "RelativeToolTip": "api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:57:41.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultarLancamentosPorDiaQueryHandler.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandler.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandler.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandler.cs",
+              "RelativeToolTip": "api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:57:38.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultarLancamentosPorDiaQuery.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQuery.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQuery.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQuery.cs",
+              "RelativeToolTip": "api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:57:36.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lancamento.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Domain\\Entities\\Lancamento.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Domain\\Entities\\Lancamento.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Domain\\Entities\\Lancamento.cs",
+              "RelativeToolTip": "api.financial.transactions\\Domain\\Entities\\Lancamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:57:28.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "api.financial.transactions\\Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:56:59.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILancamentoRepository.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Application\\Interfaces\\ILancamentoRepository.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Application\\Interfaces\\ILancamentoRepository.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Application\\Interfaces\\ILancamentoRepository.cs",
+              "RelativeToolTip": "api.financial.transactions\\Application\\Interfaces\\ILancamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:57:03.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LancamentosController.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Controllers\\LancamentosController.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Controllers\\LancamentosController.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Controllers\\LancamentosController.cs",
+              "RelativeToolTip": "api.financial.transactions\\Controllers\\LancamentosController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:57:09.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LancamentoRepositoryTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Infrastructure\\Persistence\\LancamentoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Infrastructure\\Persistence\\LancamentoRepositoryTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Infrastructure\\Persistence\\LancamentoRepositoryTests.cs",
+              "RelativeToolTip": "..\\api.financial.transactions.tests\\Infrastructure\\Persistence\\LancamentoRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:55:02.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrarLancamentoValidatorTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoValidatorTests.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoValidatorTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoValidatorTests.cs",
+              "RelativeToolTip": "..\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:54:56.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegistrarLancamentoCommandHandlerTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandlerTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandlerTests.cs",
+              "RelativeToolTip": "..\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:54:53.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LancamentoRepositoryTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\LancamentoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\LancamentoRepositoryTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\LancamentoRepositoryTests.cs",
+              "RelativeToolTip": "..\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\LancamentoRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:54:49.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConsultarLancamentosPorDiaValidatorTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidatorTests.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidatorTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidatorTests.cs",
+              "RelativeToolTip": "..\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:54:43.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConsultarLancamentosPorDiaQueryHandlerTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandlerTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandlerTests.cs",
+              "RelativeToolTip": "..\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:54:38.764Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
