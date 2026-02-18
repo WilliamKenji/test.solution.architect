@@ -1,0 +1,24 @@
+## Refinamento de Requisitos Funcionais e Não Funcionais
+
+### Requisitos Funcionais Refinados
+
+| ID    | Requisito Funcional                  | Descrição Detalhada                                                                 | Entradas / Saídas Esperadas                                      | Critérios de Aceitação                                                                 | Prioridade | Domínio Relacionado          |
+|-------|--------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------|------------------------------|
+| RF-01 | Registrar Lançamento                 | O usuário deve registrar um lançamento de débito ou crédito no caixa diário.       | Entrada: tipo, valor (>0), data, descrição (opcional). Saída: ID + confirmação | Valor positivo, data válida, registro imutável, evento publicado no Service Bus      | Alta       | Lançamentos de Caixa (Core)  |
+| RF-02 | Listar Lançamentos por Dia           | Consultar todos os lançamentos de uma data específica.                             | Entrada: data (YYYY-MM-DD). Saída: lista de lançamentos          | Retorna vazio se não houver, ordenado por data/hora descendente                      | Alta       | Lançamentos de Caixa         |
+| RF-03 | Obter Saldo Consolidado Diário       | Consultar o saldo consolidado de um dia (créditos - débitos).                     | Entrada: data (YYYY-MM-DD). Saída: saldo, créditos, débitos, transações | Saldo calculado corretamente, cache hit < 50ms, fallback DB se necessário            | Alta       | Consolidado Diário           |
+| RF-04 | Sincronização Assíncrona de Saldos   | Atualizar automaticamente o consolidado ao registrar lançamento.                  | Entrada: evento via Service Bus. Saída: saldo atualizado        | Processamento eventual (≤ 5s), idempotente, dead-letter para falhas                  | Alta       | Integração entre domínios    |
+| RF-05 | Autenticação e Autorização Básica    | Usuário deve se autenticar para acessar APIs.                                      | Entrada: token JWT. Saída: acesso permitido/negado              | Apenas autenticados, role-based (comerciante full, visualizador read-only)           | Alta       | Segurança transversal        |
+
+### Requisitos Não Funcionais Refinados
+
+| ID     | Categoria         | Requisito Não Funcional Refinado                                      | Métrica / Critério                              | Justificativa / Como Atender                                      | Prioridade |
+|--------|-------------------|-----------------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------------|------------|
+| RNF-01 | Disponibilidade   | Serviço de lançamentos independente do consolidado                   | 99.9% uptime para Launch Service                | Decoupling via Azure Service Bus, zone-redundant App Service      | Alta       |
+| RNF-02 | Desempenho        | Consolidated Service suporta picos de 50 RPS                          | Latência < 200ms (p95), perda ≤ 5%              | Redis cache first, APIM rate limiting, auto-scaling               | Alta       |
+| RNF-03 | Escalabilidade    | Escala horizontal com aumento de carga                                | +100% carga sem degradação >20%                 | Azure App Service auto-scale, Service Bus Premium                 | Alta       |
+| RNF-04 | Resiliência       | Recuperação rápida de falhas                                          | MTTR < 5 min, RTO < 15 min                      | Circuit breakers (Polly), retries no Service Bus, backups SQL     | Alta       |
+| RNF-05 | Segurança         | Proteção de dados financeiros                                         | Conformidade OWASP Top 10                       | HTTPS, Entra ID JWT, Private Endpoints, Always Encrypted SQL      | Alta       |
+| RNF-06 | Confiabilidade    | Eventual consistency aceitável para saldos                            | Delay ≤ 10s em 99% dos casos                    | Event-driven + idempotência                                       | Alta     |
+| RNF-07 | Observabilidade   | Monitorar saúde e performance                                         | Logs, métricas e traces em 100% das requests    | Application Insights, alertas para erros e queue size            | Alta     |
+| RNF-08 | Manutenibilidade  | Código e deploy fáceis de manter                                      | Deploy < 10 min, testes >70% cobertura          | CI/CD GitHub Actions, clean architecture .NET                     | Alta     |
