@@ -83,7 +83,7 @@ Deploy em AKS com CI/CD via Azure Devops e observabilidade via Application Insig
 - Performance: Rate limiting no APIM + Redis.
 
 ## Decisores
-- Arquiteto de Soluções: William
+- Arquiteto de Soluções: William Kenji
 
 ## Referências
 - [Domain Mapping e Capacidades de Negócio](domain.md)  

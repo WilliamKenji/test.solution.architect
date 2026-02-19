@@ -37,7 +37,7 @@ Durante a migração, introduzimos uma **Anti-Corruption Layer (ACL)** para isol
 - Extração primeiro do Financial Transaction Service (lançamentos), depois do Consolidated Service.
 - ACL traduz chamadas legadas (WCF → novos microservices).
 - Testes paralelos (A/B via APIM) e monitoramento para validar antes de cutover.
-- Tempo estimado: 3–6 meses, minimizando riscos e downtime.
+- Tempo estimado: 9–12 meses, minimizando riscos e downtime.
 
 ## 3. Arquitetura Alvo (To Be – Cloud-Native no Azure)
 

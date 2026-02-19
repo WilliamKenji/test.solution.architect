@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj|solutionrelative:02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj|solutionrelative:02.financials\\01.api.transactions\\api.financial.consolidated\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "api.financial.consolidated",
+              "DocumentMoniker": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj",
+              "RelativeDocumentMoniker": "02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj",
+              "ToolTip": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj",
+              "RelativeToolTip": "02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T09:50:27.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Program.cs",
+              "RelativeDocumentMoniker": "02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Program.cs",
+              "ToolTip": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Program.cs",
+              "RelativeToolTip": "02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwEcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:48:31.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Program.cs",
+              "RelativeDocumentMoniker": "02.financials\\01.api.transactions\\api.financial.consolidated\\Program.cs",
+              "ToolTip": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Program.cs",
+              "RelativeToolTip": "02.financials\\01.api.transactions\\api.financial.consolidated\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:48:13.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

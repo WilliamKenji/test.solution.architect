@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qODcQ/W6uxw=",
+  "dgSpecHash": "vsNezP3kh88=",
   "success": true,
-  "projectFilePath": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj",
+  "projectFilePath": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\willi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
