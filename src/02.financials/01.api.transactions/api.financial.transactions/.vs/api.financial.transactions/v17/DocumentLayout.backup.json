@@ -1,27 +1,160 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\",
+  "WorkspaceRootPath": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\domain\\entities\\lancamentotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AF8B721-631E-446D-85FF-4E5D7E452228}|..\\..\\02.consumers\\consumer.financial.transactions.tests\\consumer.financial.transactions.tests.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\features\\processlancamento\\processlancamentohandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\infrastructure\\persistence\\lancamentorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\infrastructure\\persistence\\lancamentorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\registrarlancamento\\registrarlancamentovalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\registrarlancamento\\registrarlancamentovalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\registrarlancamento\\registrarlancamentocommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\registrarlancamento\\registrarlancamentocommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\consultarlancamentospordia\\lancamentorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\consultarlancamentospordia\\lancamentorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\consultarlancamentospordia\\consultarlancamentospordiavalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\consultarlancamentospordia\\consultarlancamentospordiavalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\consultarlancamentospordia\\consultarlancamentospordiaqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}|..\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\features\\consultarlancamentospordia\\consultarlancamentospordiaqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\infrastructure\\persistence\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\infrastructure\\persistence\\consolidatedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\infrastructure\\persistence\\consolidateddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\infrastructure\\messaging\\servicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\infrastructure\\caching\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\features\\processlancamento\\processlancamentovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\features\\processlancamento\\processlancamentohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\features\\processlancamento\\processlancamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\domain\\entities\\consolidateddaily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\application\\interfaces\\iconsolidatedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\application\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}|..\\..\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\infrastructure\\persistence\\lancamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\infrastructure\\persistence\\lancamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\infrastructure\\persistence\\fluxocaixadbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\infrastructure\\persistence\\fluxocaixadbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\infrastructure\\persistence\\fluxocaixadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\infrastructure\\persistence\\fluxocaixadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\features\\registrarlancamento\\registrarlancamentovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\features\\registrarlancamento\\registrarlancamentovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\features\\registrarlancamento\\registrarlancamentocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\features\\registrarlancamento\\registrarlancamentocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\features\\registrarlancamento\\registrarlancamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\features\\registrarlancamento\\registrarlancamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\features\\consultarlancamentospordia\\consultarlancamentospordiavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\features\\consultarlancamentospordia\\consultarlancamentospordiavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\features\\consultarlancamentospordia\\consultarlancamentospordiaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\features\\consultarlancamentospordia\\consultarlancamentospordiaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\features\\consultarlancamentospordia\\consultarlancamentospordiaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\features\\consultarlancamentospordia\\consultarlancamentospordiaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\domain\\entities\\lancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\domain\\entities\\lancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\controllers\\lancamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\controllers\\lancamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\application\\interfaces\\ilancamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\application\\interfaces\\ilancamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8671A442-5CEE-4D00-903E-C055B5FC8A9C}|api.financial.transactions\\api.financial.transactions.csproj|solutionrelative:api.financial.transactions\\application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\infrastructure\\persistence\\consolidatedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\infrastructure\\persistence\\consolidateddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\infrastructure\\caching\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\features\\consultarconsolidado\\consultarconsolidadovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\features\\consultarconsolidado\\consultarconsolidadoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\features\\consultarconsolidado\\consultarconsolidadoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\domain\\entities\\consolidateddaily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\controllers\\consolidadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\application\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208AE731-A36D-4143-8770-D2EB22BCE0EA}|..\\api.financial.consolidated\\api.financial.consolidated.csproj|d:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\application\\interfaces\\iconsolidatedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,92 +169,612 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LancamentoTests.cs",
-              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Domain\\Entities\\LancamentoTests.cs",
-              "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Domain\\Entities\\LancamentoTests.cs",
-              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Domain\\Entities\\LancamentoTests.cs",
-              "RelativeToolTip": "..\\api.financial.transactions.tests\\Domain\\Entities\\LancamentoTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "ProcessLancamentoHandlerTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\Features\\ProcessLancamento\\ProcessLancamentoHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions.tests\\Features\\ProcessLancamento\\ProcessLancamentoHandlerTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\Features\\ProcessLancamento\\ProcessLancamentoHandlerTests.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions.tests\\Features\\ProcessLancamento\\ProcessLancamentoHandlerTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T20:55:08.347Z",
+              "WhenOpened": "2026-02-19T01:04:24.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LancamentoRepositoryTests.cs",
-              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Infrastructure\\Persistence\\LancamentoRepositoryTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Infrastructure\\Persistence\\LancamentoRepositoryTests.cs",
               "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Infrastructure\\Persistence\\LancamentoRepositoryTests.cs",
-              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Infrastructure\\Persistence\\LancamentoRepositoryTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Infrastructure\\Persistence\\LancamentoRepositoryTests.cs",
               "RelativeToolTip": "..\\api.financial.transactions.tests\\Infrastructure\\Persistence\\LancamentoRepositoryTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T20:55:02.497Z",
+              "WhenOpened": "2026-02-19T01:03:29.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RegistrarLancamentoValidatorTests.cs",
-              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoValidatorTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoValidatorTests.cs",
               "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoValidatorTests.cs",
-              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoValidatorTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoValidatorTests.cs",
               "RelativeToolTip": "..\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoValidatorTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T20:54:56.262Z",
+              "WhenOpened": "2026-02-19T01:03:23.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "RegistrarLancamentoCommandHandlerTests.cs",
-              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandlerTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandlerTests.cs",
               "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandlerTests.cs",
-              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandlerTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandlerTests.cs",
               "RelativeToolTip": "..\\api.financial.transactions.tests\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandlerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowBQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T20:54:53.167Z",
+              "WhenOpened": "2026-02-19T01:03:13.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "LancamentoRepositoryTests.cs",
-              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\LancamentoRepositoryTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\LancamentoRepositoryTests.cs",
               "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\LancamentoRepositoryTests.cs",
-              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\LancamentoRepositoryTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\LancamentoRepositoryTests.cs",
               "RelativeToolTip": "..\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\LancamentoRepositoryTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T20:54:49.109Z",
+              "WhenOpened": "2026-02-19T01:03:03.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ConsultarLancamentosPorDiaValidatorTests.cs",
-              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidatorTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidatorTests.cs",
               "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidatorTests.cs",
-              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidatorTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidatorTests.cs",
               "RelativeToolTip": "..\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidatorTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T20:54:43.832Z",
+              "WhenOpened": "2026-02-19T01:02:44.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ConsultarLancamentosPorDiaQueryHandlerTests.cs",
-              "DocumentMoniker": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandlerTests.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandlerTests.cs",
               "RelativeDocumentMoniker": "..\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandlerTests.cs",
-              "ToolTip": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandlerTests.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandlerTests.cs",
               "RelativeToolTip": "..\\api.financial.transactions.tests\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandlerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T20:54:38.764Z",
+              "WhenOpened": "2026-02-19T01:02:35.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Program.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Program.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:01:11.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Persistence\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Persistence\\DatabaseInitializer.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Persistence\\DatabaseInitializer.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Persistence\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:01:01.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsolidatedRepository.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Persistence\\ConsolidatedRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Persistence\\ConsolidatedRepository.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Persistence\\ConsolidatedRepository.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Persistence\\ConsolidatedRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:00:57.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsolidatedDbContext.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Persistence\\ConsolidatedDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Persistence\\ConsolidatedDbContext.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Persistence\\ConsolidatedDbContext.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Persistence\\ConsolidatedDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:00:42.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceBusConsumer.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Messaging\\ServiceBusConsumer.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Messaging\\ServiceBusConsumer.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Messaging\\ServiceBusConsumer.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Messaging\\ServiceBusConsumer.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:00:03.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Caching\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Caching\\RedisCacheService.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Caching\\RedisCacheService.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Infrastructure\\Caching\\RedisCacheService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:59:59.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProcessLancamentoValidator.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Features\\ProcessLancamento\\ProcessLancamentoValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Features\\ProcessLancamento\\ProcessLancamentoValidator.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Features\\ProcessLancamento\\ProcessLancamentoValidator.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Features\\ProcessLancamento\\ProcessLancamentoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:59:55.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProcessLancamentoHandler.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Features\\ProcessLancamento\\ProcessLancamentoHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Features\\ProcessLancamento\\ProcessLancamentoHandler.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Features\\ProcessLancamento\\ProcessLancamentoHandler.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Features\\ProcessLancamento\\ProcessLancamentoHandler.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:59:51.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProcessLancamentoCommand.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Features\\ProcessLancamento\\ProcessLancamentoCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Features\\ProcessLancamento\\ProcessLancamentoCommand.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Features\\ProcessLancamento\\ProcessLancamentoCommand.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Features\\ProcessLancamento\\ProcessLancamentoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:59:46.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:59:42.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsolidatedDaily.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Domain\\Entities\\ConsolidatedDaily.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Domain\\Entities\\ConsolidatedDaily.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Domain\\Entities\\ConsolidatedDaily.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Domain\\Entities\\ConsolidatedDaily.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:59:30.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IConsolidatedRepository.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Application\\Interfaces\\IConsolidatedRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Application\\Interfaces\\IConsolidatedRepository.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Application\\Interfaces\\IConsolidatedRepository.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Application\\Interfaces\\IConsolidatedRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:59:19.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Application\\Interfaces\\ICacheService.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Application\\Interfaces\\ICacheService.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Application\\Interfaces\\ICacheService.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Application\\Interfaces\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:58.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "..\\..\\02.consumers\\consumer.financial.transactions\\Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "..\\..\\02.consumers\\consumer.financial.transactions\\Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:52.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LancamentoRepository.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Infrastructure\\Persistence\\LancamentoRepository.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Infrastructure\\Persistence\\LancamentoRepository.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Infrastructure\\Persistence\\LancamentoRepository.cs",
+              "RelativeToolTip": "api.financial.transactions\\Infrastructure\\Persistence\\LancamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:42.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FluxoCaixaDbContextFactory.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContextFactory.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContextFactory.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContextFactory.cs",
+              "RelativeToolTip": "api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:40.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FluxoCaixaDbContext.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContext.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContext.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContext.cs",
+              "RelativeToolTip": "api.financial.transactions\\Infrastructure\\Persistence\\FluxoCaixaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:38.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegistrarLancamentoValidator.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoValidator.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoValidator.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoValidator.cs",
+              "RelativeToolTip": "api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:28.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegistrarLancamentoCommandHandler.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandler.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandler.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandler.cs",
+              "RelativeToolTip": "api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:25.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegistrarLancamentoCommand.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommand.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommand.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommand.cs",
+              "RelativeToolTip": "api.financial.transactions\\Features\\RegistrarLancamento\\RegistrarLancamentoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:24.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConsultarLancamentosPorDiaValidator.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidator.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidator.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidator.cs",
+              "RelativeToolTip": "api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:22.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConsultarLancamentosPorDiaQueryHandler.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandler.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandler.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandler.cs",
+              "RelativeToolTip": "api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:20.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ConsultarLancamentosPorDiaQuery.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQuery.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQuery.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQuery.cs",
+              "RelativeToolTip": "api.financial.transactions\\Features\\ConsultarLancamentosPorDia\\ConsultarLancamentosPorDiaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:18.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Lancamento.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Domain\\Entities\\Lancamento.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Domain\\Entities\\Lancamento.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Domain\\Entities\\Lancamento.cs",
+              "RelativeToolTip": "api.financial.transactions\\Domain\\Entities\\Lancamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:13.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LancamentosController.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Controllers\\LancamentosController.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Controllers\\LancamentosController.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Controllers\\LancamentosController.cs",
+              "RelativeToolTip": "api.financial.transactions\\Controllers\\LancamentosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:08.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ILancamentoRepository.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Application\\Interfaces\\ILancamentoRepository.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Application\\Interfaces\\ILancamentoRepository.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Application\\Interfaces\\ILancamentoRepository.cs",
+              "RelativeToolTip": "api.financial.transactions\\Application\\Interfaces\\ILancamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:05.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "api.financial.transactions\\Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "api.financial.transactions\\Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:58:01.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Program.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Program.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Program.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:57:48.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ConsolidatedRepository.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Infrastructure\\Persistence\\ConsolidatedRepository.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Infrastructure\\Persistence\\ConsolidatedRepository.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Infrastructure\\Persistence\\ConsolidatedRepository.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Infrastructure\\Persistence\\ConsolidatedRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:57:39.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ConsolidatedDbContext.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Infrastructure\\Persistence\\ConsolidatedDbContext.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Infrastructure\\Persistence\\ConsolidatedDbContext.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Infrastructure\\Persistence\\ConsolidatedDbContext.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Infrastructure\\Persistence\\ConsolidatedDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:57:37.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Infrastructure\\Caching\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Infrastructure\\Caching\\RedisCacheService.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Infrastructure\\Caching\\RedisCacheService.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Infrastructure\\Caching\\RedisCacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:57:34.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ConsultarConsolidadoValidator.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Features\\ConsultarConsolidado\\ConsultarConsolidadoValidator.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Features\\ConsultarConsolidado\\ConsultarConsolidadoValidator.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Features\\ConsultarConsolidado\\ConsultarConsolidadoValidator.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Features\\ConsultarConsolidado\\ConsultarConsolidadoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:57:30.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ConsultarConsolidadoQueryHandler.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Features\\ConsultarConsolidado\\ConsultarConsolidadoQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Features\\ConsultarConsolidado\\ConsultarConsolidadoQueryHandler.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Features\\ConsultarConsolidado\\ConsultarConsolidadoQueryHandler.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Features\\ConsultarConsolidado\\ConsultarConsolidadoQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:57:29.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ConsultarConsolidadoQuery.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Features\\ConsultarConsolidado\\ConsultarConsolidadoQuery.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Features\\ConsultarConsolidado\\ConsultarConsolidadoQuery.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Features\\ConsultarConsolidado\\ConsultarConsolidadoQuery.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Features\\ConsultarConsolidado\\ConsultarConsolidadoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:57:27.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:57:22.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ConsolidatedDaily.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Domain\\Entities\\ConsolidatedDaily.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Domain\\Entities\\ConsolidatedDaily.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Domain\\Entities\\ConsolidatedDaily.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Domain\\Entities\\ConsolidatedDaily.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:57:19.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ConsolidadoController.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Controllers\\ConsolidadoController.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Controllers\\ConsolidadoController.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Controllers\\ConsolidadoController.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Controllers\\ConsolidadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:56:01.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IConsolidatedRepository.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Application\\Interfaces\\IConsolidatedRepository.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Application\\Interfaces\\IConsolidatedRepository.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Application\\Interfaces\\IConsolidatedRepository.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Application\\Interfaces\\IConsolidatedRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:55:25.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Application\\Interfaces\\ICacheService.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Application\\Interfaces\\ICacheService.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Application\\Interfaces\\ICacheService.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Application\\Interfaces\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:55:03.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "..\\api.financial.consolidated\\Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.consolidated\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "..\\api.financial.consolidated\\Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:54:59.222Z",
               "EditorCaption": ""
             }
           ]

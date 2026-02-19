@@ -19,7 +19,6 @@ namespace api.financial.transactions.tests.Features.RegistrarLancamento
             _repositoryMock = new Mock<ILancamentoRepository>();
             _serviceBusClientMock = new Mock<ServiceBusClient>();
             _fixture = new Fixture();
-            // Sem customização problemática — o construtor da entidade já garante consistência
         }
 
         [Fact]

@@ -21,7 +21,6 @@ namespace api.financial.transactions.tests.Features.ConsultarLancamentosPorDia
         [Fact]
         public async Task Deve_retornar_lancamentos_paginados_corretamente()
         {
-            // Arrange - DbContext real InMemory
             var options = new DbContextOptionsBuilder<FluxoCaixaDbContext>()
                 .UseInMemoryDatabase(Guid.NewGuid().ToString())
                 .Options;

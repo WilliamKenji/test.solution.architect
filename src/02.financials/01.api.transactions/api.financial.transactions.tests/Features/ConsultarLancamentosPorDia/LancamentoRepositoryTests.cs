@@ -41,7 +41,6 @@ namespace api.financial.transactions.tests.Features.ConsultarLancamentosPorDia
 
             // Assert
             lancamentos.Should().HaveCount(2);
-            //lancamentos.Should().AllSatisfy(l => l.Data.Date == dataAlvo.Date);
         }
 
         [Fact]
