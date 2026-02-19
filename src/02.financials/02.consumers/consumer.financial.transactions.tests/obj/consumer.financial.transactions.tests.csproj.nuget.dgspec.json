@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\consumer.financial.transactions.tests.csproj": {}
+    "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\consumer.financial.transactions.tests.csproj": {}
   },
   "projects": {
-    "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\consumer.financial.transactions.tests.csproj": {
+    "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\consumer.financial.transactions.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\consumer.financial.transactions.tests.csproj",
+        "projectUniqueName": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\consumer.financial.transactions.tests.csproj",
         "projectName": "consumer.financial.transactions.tests",
-        "projectPath": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\consumer.financial.transactions.tests.csproj",
+        "projectPath": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\consumer.financial.transactions.tests.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\obj\\",
+        "outputPath": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions.tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj": {
-                "projectPath": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj"
+              "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj": {
+                "projectPath": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj"
               }
             }
           }
@@ -116,14 +116,14 @@
         }
       }
     },
-    "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj": {
+    "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj",
+        "projectUniqueName": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj",
         "projectName": "consumer.financial.transactions",
-        "projectPath": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj",
+        "projectPath": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\obj\\",
+        "outputPath": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\02.consumers\\consumer.financial.transactions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\api.financial.transactions.csproj": {}
+    "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\api.financial.transactions.csproj": {}
   },
   "projects": {
-    "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\api.financial.transactions.csproj": {
+    "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\api.financial.transactions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\api.financial.transactions.csproj",
+        "projectUniqueName": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\api.financial.transactions.csproj",
         "projectName": "api.financial.transactions",
-        "projectPath": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\api.financial.transactions.csproj",
+        "projectPath": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\api.financial.transactions.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\obj\\",
+        "outputPath": "D:\\test\\00.branchs\\03.updated-documentation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
