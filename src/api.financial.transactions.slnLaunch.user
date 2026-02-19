@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "02.financials\\01.api.transactions\\api.financial.transactions\\api.financial.transactions\\api.financial.transactions.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "02.financials\\02.consumers\\consumer.financial.transactions\\consumer.financial.transactions.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "02.financials\\01.api.transactions\\api.financial.consolidated\\api.financial.consolidated.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

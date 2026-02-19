@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.financial.transactions", "api.financial.transactions\api.financial.transactions.csproj", "{8671A442-5CEE-4D00-903E-C055B5FC8A9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.financial.transactions", "02.financials\01.api.transactions\api.financial.transactions\api.financial.transactions\api.financial.transactions.csproj", "{8671A442-5CEE-4D00-903E-C055B5FC8A9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.financial.transactions.tests", "..\api.financial.transactions.tests\api.financial.transactions.tests.csproj", "{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.financial.transactions.tests", "02.financials\01.api.transactions\api.financial.transactions.tests\api.financial.transactions.tests.csproj", "{ACCB9A58-917B-4360-AFE0-3957B2CF0B91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consumer.financial.transactions", "..\..\02.consumers\consumer.financial.transactions\consumer.financial.transactions.csproj", "{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consumer.financial.transactions", "02.financials\02.consumers\consumer.financial.transactions\consumer.financial.transactions.csproj", "{EA4465A3-E6B7-4773-A329-AA94DE7CABB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.financial.consolidated", "..\api.financial.consolidated\api.financial.consolidated.csproj", "{208AE731-A36D-4143-8770-D2EB22BCE0EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.financial.consolidated", "02.financials\01.api.transactions\api.financial.consolidated\api.financial.consolidated.csproj", "{208AE731-A36D-4143-8770-D2EB22BCE0EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consumer.financial.transactions.tests", "..\..\02.consumers\consumer.financial.transactions.tests\consumer.financial.transactions.tests.csproj", "{4AF8B721-631E-446D-85FF-4E5D7E452228}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consumer.financial.transactions.tests", "02.financials\02.consumers\consumer.financial.transactions.tests\consumer.financial.transactions.tests.csproj", "{4AF8B721-631E-446D-85FF-4E5D7E452228}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
