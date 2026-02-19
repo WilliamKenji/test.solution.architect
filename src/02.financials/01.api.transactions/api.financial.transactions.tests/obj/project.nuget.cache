@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "55V5xNT27Yc=",
+  "dgSpecHash": "mEJ17P/4v7U=",
   "success": true,
-  "projectFilePath": "D:\\test\\00.branchs\\01.api-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj",
+  "projectFilePath": "D:\\test\\00.branchs\\02.consumer-implementation\\test.solution.architect\\src\\02.financials\\01.api.transactions\\api.financial.transactions.tests\\api.financial.transactions.tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\willi\\.nuget\\packages\\autofixture\\4.18.1\\autofixture.4.18.1.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",

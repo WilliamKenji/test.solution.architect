@@ -10,12 +10,11 @@ namespace api.financial.transactions.tests.Infrastructure.Persistence
         private FluxoCaixaDbContext CreateInMemoryContext(string dbName = "TestDb")
         {
             var options = new DbContextOptionsBuilder<FluxoCaixaDbContext>()
-                .UseInMemoryDatabase(databaseName: dbName)  // ← método correto
+                .UseInMemoryDatabase(databaseName: dbName) 
                 .Options;
 
             var context = new FluxoCaixaDbContext(options);
 
-            // Limpa dados anteriores (importante em testes)
             context.Database.EnsureDeleted();
             context.Database.EnsureCreated();
 

@@ -20,7 +20,7 @@ namespace api.financial.transactions.tests.Features.ConsultarLancamentosPorDia
             var data = dataStr != null ? DateTime.Parse(dataStr) : default(DateTime?);
 
             var query = new ConsultarLancamentosPorDiaQuery(
-                data ?? DateTime.UtcNow.AddDays(1), // força inválido quando null
+                data ?? DateTime.UtcNow.AddDays(1),
                 pagina,
                 tamanhoPagina);
 
@@ -28,8 +28,6 @@ namespace api.financial.transactions.tests.Features.ConsultarLancamentosPorDia
 
             if (deveSerValido)
                 result.ShouldNotHaveAnyValidationErrors();
-            //else
-            //    result.ShouldHaveAnyValidationErrors();  // ← correção aqui
         }
 
         [Fact]
@@ -44,17 +42,5 @@ namespace api.financial.transactions.tests.Features.ConsultarLancamentosPorDia
             result.ShouldHaveValidationErrorFor(x => x.Data)
                   .WithErrorMessage("A data não pode ser futura.");
         }
-
-        //[Fact]
-        //public void Pagina_invalida_deve_falhar()
-        //{
-        //    var query = new ConsultarLancamentosPorDiaQuery(
-        //        DateTime.UtcNow.Date,
-        //        0, 20);
-
-        //    var result = _validator.TestValidate(query);
-
-        //    result.ShouldHaveAnyValidationErrors();  // ← também aqui
-        //}
     }
 }
